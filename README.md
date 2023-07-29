@@ -155,8 +155,9 @@ No known bugs at this time.
 
 ## Authors
 Kelvin Olowode - [Github](https://github.com/Justkelvn)
+
 Oluwatosin ATITEBI - [Github](https://github.com/CodeStephens)
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
